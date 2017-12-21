@@ -1,4 +1,7 @@
 # hello-world
 my first git repo just for practising
 
-This is my first edit on a branch.
+A list of items:
+1)cheese
+2)bread
+3)wine
