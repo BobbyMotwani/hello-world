@@ -5,4 +5,4 @@ A list of items:
 1)cheese
 2)bread
 3)wine
-4)chocolat
+4)chocolate
